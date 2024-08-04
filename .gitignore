@@ -1,0 +1,4 @@
+# Ignore the offload folder
+offload_folder/
+data/
+LaMini-Flan-T5/
